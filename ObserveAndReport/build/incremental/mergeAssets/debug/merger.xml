@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/remi/remichaignon/dev/remichaignon/observe-and-report/ObserveAndReport/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/remi/remichaignon/dev/remichaignon/observe-and-report/ObserveAndReport/src/debug/assets" />
+    </dataSet>
+
+</merger>
