@@ -90,7 +90,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ObserveAndReport/src/main/java/com/citizenservices/observeandreport/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="43" selection-start="476" selection-end="476" vertical-scroll-proportion="0.51282054" vertical-offset="0" max-vertical-offset="945">
+            <state line="45" column="5" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.44871795" vertical-offset="465" max-vertical-offset="1665">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -349,6 +349,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f35fea63-886d-4857-afda-7b8540c77e94" name="Default" comment="" />
@@ -464,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ObserveAndReport/src/main/java/com/citizenservices/observeandreport/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="43" selection-start="476" selection-end="476" vertical-scroll-proportion="0.51282054" vertical-offset="0" max-vertical-offset="945">
+        <state line="45" column="5" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.44871795" vertical-offset="465" max-vertical-offset="1665">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
